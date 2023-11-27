@@ -1,0 +1,77 @@
+
+
+.body{
+    background: linear-gradient(to bottom, #575757, #b9b9b9, #e6e6e6);
+    background-position:initial;
+    background-repeat: no-repeat;
+    margin: 0%;
+}
+
+.heading{
+    font-size: 220%;
+    
+}
+
+.calBox{
+    position:absolute;
+    top: 50%;
+    margin-left: 65%;
+    font-size: 150%;
+
+}
+
+.inputCal{
+    Font-size: 80%;
+}
+
+.top{
+    border-style: solid;
+    padding: 45px;
+    text-align: center;
+    font-size: 300%;
+    font-family: Teko;
+    border-width: 0px;
+    /*background:linear-gradient(to top, #717171, #afafaf);*/
+    position: center;
+    margin-top: 0px;
+} 
+
+.typeInBox{
+    font-size: 150%;
+    border-color: gray;
+    border: solid 1px; 
+    
+}
+
+.typeInLabel{
+    font-size: 150%;
+    font-family: Lato;
+}
+
+.submitButton {
+    font-size: 120%;
+}
+
+.checkButton {
+    font-size: 120%;
+}
+
+.btnChange{
+    font-size: 125%;
+}
+
+.link1{
+    font-size: 125%;
+}
+
+.headingText{
+    font-family: Teko;
+    font-size: 225%;
+    text-align: center;
+}
+
+.paragraphText{
+    font-family: Teko;
+    font-size: 150%;
+    text-align: center;
+}
